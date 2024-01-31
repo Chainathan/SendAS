@@ -5,9 +5,6 @@ This project won 3rd rank in the Hackathon Tech Eden.
 
 [Devfolio Link](https://devfolio.co/submissions/sendas-d94a)
 
-Deployed to 
-[this link](http://sendas.totalh.net/)
-
 The user uploads a file. It generates a download code along with a download link.
 
 User shares the code or link with a friend who will download the uploaded file.
